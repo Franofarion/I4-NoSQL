@@ -433,3 +433,1018 @@
               ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
               17"} 
 
+
+
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000005b"),"customer_num":101,"f
+              name":"Ludwig","lname":"Pauli","company":"All Sports Supplies","a
+              ddress1":"213 Erstwild Court","city":"Sunnyvale","state":"CA","zi
+              pcode":"94086","phone":"408-789-8075"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000005c"),"customer_num":102,"f
+              name":"Carole","lname":"Sadler","company":"Sports Spot","address1
+              ":"785 Geary St","city":"San Francisco","state":"CA","zipcode":"9
+              4117","phone":"415-822-1289"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000005d"),"customer_num":103,"f
+              name":"Philip","lname":"Currie","company":"Phil's Sports","addres
+              s1":"654 Poplar","address2":"P. O. Box 3498","city":"Palo Alto","
+              state":"CA","zipcode":"94303","phone":"415-328-4543"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000005e"),"customer_num":104,"f
+              name":"Anthony","lname":"Higgins","company":"Play Ball!","address
+              1":"East Shopping Cntr.","address2":"422 Bay Road","city":"Redwoo
+              d City","state":"CA","zipcode":"94026","phone":"415-368-1100"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000005f"),"customer_num":105,"f
+              name":"Raymond","lname":"Vector","company":"Los Altos Sports","ad
+              dress1":"1899 La Loma Drive","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-776-3249"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000060"),"customer_num":106,"f
+              name":"George","lname":"Watson","company":"Watson & Son","address
+              1":"1143 Carver Place","city":"Mountain View","state":"CA","zipco
+              de":"94063","phone":"415-389-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000061"),"customer_num":107,"f
+              name":"Charles","lname":"Ream","company":"Athletic Supplies","add
+              ress1":"41 Jordan Avenue","city":"Palo Alto","state":"CA","zipcod
+              e":"94304","phone":"415-356-9876"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000062"),"customer_num":108,"f
+              name":"Donald","lname":"Quinn","company":"Quinn's Sports","addres
+              s1":"587 Alvarado","city":"Redwood City","state":"CA","zipcode":"
+              94063","phone":"415-544-8729"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000063"),"customer_num":109,"f
+              name":"Jane","lname":"Miller","company":"Sport Stuff","address1":
+              "Mayfair Mart","address2":"7345 Ross Blvd.","city":"Sunnyvale","s
+              tate":"CA","zipcode":"94086","phone":"408-723-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000064"),"customer_num":110,"f
+              name":"Roy","lname":"Jaeger","company":"AA Athletics","address1":
+              "520 Topaz Way","city":"Redwood City","state":"CA","zipcode":"940
+              62","phone":"415-743-3611"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000065"),"customer_num":111,"f
+              name":"Frances","lname":"Keyes","company":"Sports Center","addres
+              s1":"3199 Sterling Court","city":"Sunnyvale","state":"CA","zipcod
+              e":"94085","phone":"408-277-7245"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000066"),"customer_num":112,"f
+              name":"Margaret","lname":"Lawson","company":"Runners & Others","a
+              ddress1":"234 Wyandotte Way","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-887-7235"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000067"),"customer_num":113,"f
+              name":"Lana","lname":"Beatty","company":"Sportstown","address1":"
+              654 Oak Grove","city":"Menlo Park","state":"CA","zipcode":"94025"
+              ,"phone":"415-356-9982"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000068"),"customer_num":114,"f
+              name":"Frank","lname":"Albertson","company":"Sporting Place","add
+              ress1":"947 Waverly Place","city":"Redwood City","state":"CA","zi
+              pcode":"94062","phone":"415-886-6677"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000069"),"customer_num":115,"f
+              name":"Alfred","lname":"Grant","company":"Gold Medal Sports","add
+              ress1":"776 Gary Avenue","city":"Menlo Park","state":"CA","zipcod
+              e":"94025","phone":"415-356-1123"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000006a"),"customer_num":116,"f
+              name":"Jean","lname":"Parmelee","company":"Olympic City","address
+              1":"1104 Spinosa Drive","city":"Mountain View","state":"CA","zipc
+              ode":"94040","phone":"415-534-8822"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000006b"),"customer_num":117,"f
+              name":"Arnold","lname":"Sipes","company":"Kids Korner","address1"
+              :"850 Lytton Court","city":"Redwood City","state":"CA","zipcode":
+              "94063","phone":"415-245-4578"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000006c"),"customer_num":118,"f
+              name":"Dick","lname":"Baxter","company":"Blue Ribbon Sports","add
+              ress1":"5427 College","city":"Oakland","state":"CA","zipcode":"94
+              609","phone":"415-655-0011"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000006d"),"customer_num":119,"f
+              name":"Bob","lname":"Shorter","company":"The Triathletes Club","a
+              ddress1":"2405 Kings Highway","city":"Cherry Hill","state":"NJ","
+              zipcode":"08002","phone":"609-663-6079"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000006e"),"customer_num":120,"f
+              name":"Fred","lname":"Jewell","company":"Century Pro Shop","addre
+              ss1":"6627 N. 17th Way","city":"Phoenix","state":"AZ","zipcode":"
+              85016","phone":"602-265-8754"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000006f"),"customer_num":121,"f
+              name":"Jason","lname":"Wallack","company":"City Sports","address1
+              ":"Lake Biltmore Mall","address2":"350 W. 23rd Street","city":"Wi
+              lmington","state":"DE","zipcode":"19898","phone":"302-366-7511"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000070"),"customer_num":122,"f
+              name":"Cathy","lname":"O'Brian","company":"The Sporting Life","ad
+              dress1":"543 Nassau Street","city":"Princeton","state":"NJ","zipc
+              ode":"08540","phone":"609-342-0054"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000071"),"customer_num":123,"f
+              name":"Marvin","lname":"Hanlon","company":"Bay Sports","address1"
+              :"10100 Bay Meadows Ro","address2":"Suite 1020","city":"Jacksonvi
+              lle","state":"FL","zipcode":"32256","phone":"904-823-4239"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000072"),"customer_num":124,"f
+              name":"Chris","lname":"Putnum","company":"Putnum's Putters","addr
+              ess1":"4715 S.E. Adams Blvd","address2":"Suite 909C","city":"Bart
+              lesville","state":"OK","zipcode":"74006","phone":"918-355-2074"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000073"),"customer_num":125,"f
+              name":"James","lname":"Henry","company":"Total Fitness Sports","a
+              ddress1":"1450 Commonwealth Av","city":"Brighton","state":"MA","z
+              ipcode":"02135","phone":"617-232-4159"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000074"),"customer_num":126,"f
+              name":"Eileen","lname":"Neelie","company":"Neelie's Discount Sp",
+              "address1":"2539 South Utica Str","city":"Denver","state":"CO","z
+              ipcode":"80219","phone":"303-936-7731"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000075"),"customer_num":127,"f
+              name":"Kim","lname":"Satifer","company":"Big Blue Bike Shop","add
+              ress1":"Blue Island Square","address2":"12222 Gregory Street","ci
+              ty":"Blue Island","state":"NY","zipcode":"60406","phone":"312-944
+              -5691"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000076"),"customer_num":128,"f
+              name":"Frank","lname":"Lessor","company":"Phoenix University","ad
+              dress1":"Athletic Department","address2":"1817 N. Thomas Road","c
+              ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
+              17"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000007e"),"customer_num":101,"f
+              name":"Ludwig","lname":"Pauli","company":"All Sports Supplies","a
+              ddress1":"213 Erstwild Court","city":"Sunnyvale","state":"CA","zi
+              pcode":"94086","phone":"408-789-8075"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000007f"),"customer_num":102,"f
+              name":"Carole","lname":"Sadler","company":"Sports Spot","address1
+              ":"785 Geary St","city":"San Francisco","state":"CA","zipcode":"9
+              4117","phone":"415-822-1289"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000080"),"customer_num":103,"f
+              name":"Philip","lname":"Currie","company":"Phil's Sports","addres
+              s1":"654 Poplar","address2":"P. O. Box 3498","city":"Palo Alto","
+              state":"CA","zipcode":"94303","phone":"415-328-4543"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000081"),"customer_num":104,"f
+              name":"Anthony","lname":"Higgins","company":"Play Ball!","address
+              1":"East Shopping Cntr.","address2":"422 Bay Road","city":"Redwoo
+              d City","state":"CA","zipcode":"94026","phone":"415-368-1100"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000082"),"customer_num":105,"f
+              name":"Raymond","lname":"Vector","company":"Los Altos Sports","ad
+              dress1":"1899 La Loma Drive","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-776-3249"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000083"),"customer_num":106,"f
+              name":"George","lname":"Watson","company":"Watson & Son","address
+              1":"1143 Carver Place","city":"Mountain View","state":"CA","zipco
+              de":"94063","phone":"415-389-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000084"),"customer_num":107,"f
+              name":"Charles","lname":"Ream","company":"Athletic Supplies","add
+              ress1":"41 Jordan Avenue","city":"Palo Alto","state":"CA","zipcod
+              e":"94304","phone":"415-356-9876"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000085"),"customer_num":108,"f
+              name":"Donald","lname":"Quinn","company":"Quinn's Sports","addres
+              s1":"587 Alvarado","city":"Redwood City","state":"CA","zipcode":"
+              94063","phone":"415-544-8729"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000086"),"customer_num":109,"f
+              name":"Jane","lname":"Miller","company":"Sport Stuff","address1":
+              "Mayfair Mart","address2":"7345 Ross Blvd.","city":"Sunnyvale","s
+              tate":"CA","zipcode":"94086","phone":"408-723-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000087"),"customer_num":110,"f
+              name":"Roy","lname":"Jaeger","company":"AA Athletics","address1":
+              "520 Topaz Way","city":"Redwood City","state":"CA","zipcode":"940
+              62","phone":"415-743-3611"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000088"),"customer_num":111,"f
+              name":"Frances","lname":"Keyes","company":"Sports Center","addres
+              s1":"3199 Sterling Court","city":"Sunnyvale","state":"CA","zipcod
+              e":"94085","phone":"408-277-7245"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000089"),"customer_num":112,"f
+              name":"Margaret","lname":"Lawson","company":"Runners & Others","a
+              ddress1":"234 Wyandotte Way","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-887-7235"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000008a"),"customer_num":113,"f
+              name":"Lana","lname":"Beatty","company":"Sportstown","address1":"
+              654 Oak Grove","city":"Menlo Park","state":"CA","zipcode":"94025"
+              ,"phone":"415-356-9982"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000008b"),"customer_num":114,"f
+              name":"Frank","lname":"Albertson","company":"Sporting Place","add
+              ress1":"947 Waverly Place","city":"Redwood City","state":"CA","zi
+              pcode":"94062","phone":"415-886-6677"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000008c"),"customer_num":115,"f
+              name":"Alfred","lname":"Grant","company":"Gold Medal Sports","add
+              ress1":"776 Gary Avenue","city":"Menlo Park","state":"CA","zipcod
+              e":"94025","phone":"415-356-1123"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000008d"),"customer_num":116,"f
+              name":"Jean","lname":"Parmelee","company":"Olympic City","address
+              1":"1104 Spinosa Drive","city":"Mountain View","state":"CA","zipc
+              ode":"94040","phone":"415-534-8822"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000008e"),"customer_num":117,"f
+              name":"Arnold","lname":"Sipes","company":"Kids Korner","address1"
+              :"850 Lytton Court","city":"Redwood City","state":"CA","zipcode":
+              "94063","phone":"415-245-4578"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000008f"),"customer_num":118,"f
+              name":"Dick","lname":"Baxter","company":"Blue Ribbon Sports","add
+              ress1":"5427 College","city":"Oakland","state":"CA","zipcode":"94
+              609","phone":"415-655-0011"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000090"),"customer_num":119,"f
+              name":"Bob","lname":"Shorter","company":"The Triathletes Club","a
+              ddress1":"2405 Kings Highway","city":"Cherry Hill","state":"NJ","
+              zipcode":"08002","phone":"609-663-6079"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000091"),"customer_num":120,"f
+              name":"Fred","lname":"Jewell","company":"Century Pro Shop","addre
+              ss1":"6627 N. 17th Way","city":"Phoenix","state":"AZ","zipcode":"
+              85016","phone":"602-265-8754"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000092"),"customer_num":121,"f
+              name":"Jason","lname":"Wallack","company":"City Sports","address1
+              ":"Lake Biltmore Mall","address2":"350 W. 23rd Street","city":"Wi
+              lmington","state":"DE","zipcode":"19898","phone":"302-366-7511"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000093"),"customer_num":122,"f
+              name":"Cathy","lname":"O'Brian","company":"The Sporting Life","ad
+              dress1":"543 Nassau Street","city":"Princeton","state":"NJ","zipc
+              ode":"08540","phone":"609-342-0054"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000094"),"customer_num":123,"f
+              name":"Marvin","lname":"Hanlon","company":"Bay Sports","address1"
+              :"10100 Bay Meadows Ro","address2":"Suite 1020","city":"Jacksonvi
+              lle","state":"FL","zipcode":"32256","phone":"904-823-4239"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000095"),"customer_num":124,"f
+              name":"Chris","lname":"Putnum","company":"Putnum's Putters","addr
+              ess1":"4715 S.E. Adams Blvd","address2":"Suite 909C","city":"Bart
+              lesville","state":"OK","zipcode":"74006","phone":"918-355-2074"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000096"),"customer_num":125,"f
+              name":"James","lname":"Henry","company":"Total Fitness Sports","a
+              ddress1":"1450 Commonwealth Av","city":"Brighton","state":"MA","z
+              ipcode":"02135","phone":"617-232-4159"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000097"),"customer_num":126,"f
+              name":"Eileen","lname":"Neelie","company":"Neelie's Discount Sp",
+              "address1":"2539 South Utica Str","city":"Denver","state":"CO","z
+              ipcode":"80219","phone":"303-936-7731"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000098"),"customer_num":127,"f
+              name":"Kim","lname":"Satifer","company":"Big Blue Bike Shop","add
+              ress1":"Blue Island Square","address2":"12222 Gregory Street","ci
+              ty":"Blue Island","state":"NY","zipcode":"60406","phone":"312-944
+              -5691"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa3000000099"),"customer_num":128,"f
+              name":"Frank","lname":"Lessor","company":"Phoenix University","ad
+              dress1":"Athletic Department","address2":"1817 N. Thomas Road","c
+              ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
+              17"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a1"),"customer_num":101,"f
+              name":"Ludwig","lname":"Pauli","company":"All Sports Supplies","a
+              ddress1":"213 Erstwild Court","city":"Sunnyvale","state":"CA","zi
+              pcode":"94086","phone":"408-789-8075"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a2"),"customer_num":102,"f
+              name":"Carole","lname":"Sadler","company":"Sports Spot","address1
+              ":"785 Geary St","city":"San Francisco","state":"CA","zipcode":"9
+              4117","phone":"415-822-1289"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a3"),"customer_num":103,"f
+              name":"Philip","lname":"Currie","company":"Phil's Sports","addres
+              s1":"654 Poplar","address2":"P. O. Box 3498","city":"Palo Alto","
+              state":"CA","zipcode":"94303","phone":"415-328-4543"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a4"),"customer_num":104,"f
+              name":"Anthony","lname":"Higgins","company":"Play Ball!","address
+              1":"East Shopping Cntr.","address2":"422 Bay Road","city":"Redwoo
+              d City","state":"CA","zipcode":"94026","phone":"415-368-1100"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a5"),"customer_num":105,"f
+              name":"Raymond","lname":"Vector","company":"Los Altos Sports","ad
+              dress1":"1899 La Loma Drive","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-776-3249"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a6"),"customer_num":106,"f
+              name":"George","lname":"Watson","company":"Watson & Son","address
+              1":"1143 Carver Place","city":"Mountain View","state":"CA","zipco
+              de":"94063","phone":"415-389-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a7"),"customer_num":107,"f
+              name":"Charles","lname":"Ream","company":"Athletic Supplies","add
+              ress1":"41 Jordan Avenue","city":"Palo Alto","state":"CA","zipcod
+              e":"94304","phone":"415-356-9876"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a8"),"customer_num":108,"f
+              name":"Donald","lname":"Quinn","company":"Quinn's Sports","addres
+              s1":"587 Alvarado","city":"Redwood City","state":"CA","zipcode":"
+              94063","phone":"415-544-8729"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000a9"),"customer_num":109,"f
+              name":"Jane","lname":"Miller","company":"Sport Stuff","address1":
+              "Mayfair Mart","address2":"7345 Ross Blvd.","city":"Sunnyvale","s
+              tate":"CA","zipcode":"94086","phone":"408-723-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000aa"),"customer_num":110,"f
+              name":"Roy","lname":"Jaeger","company":"AA Athletics","address1":
+              "520 Topaz Way","city":"Redwood City","state":"CA","zipcode":"940
+              62","phone":"415-743-3611"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000ab"),"customer_num":111,"f
+              name":"Frances","lname":"Keyes","company":"Sports Center","addres
+              s1":"3199 Sterling Court","city":"Sunnyvale","state":"CA","zipcod
+              e":"94085","phone":"408-277-7245"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000ac"),"customer_num":112,"f
+              name":"Margaret","lname":"Lawson","company":"Runners & Others","a
+              ddress1":"234 Wyandotte Way","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-887-7235"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000ad"),"customer_num":113,"f
+              name":"Lana","lname":"Beatty","company":"Sportstown","address1":"
+              654 Oak Grove","city":"Menlo Park","state":"CA","zipcode":"94025"
+              ,"phone":"415-356-9982"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000ae"),"customer_num":114,"f
+              name":"Frank","lname":"Albertson","company":"Sporting Place","add
+              ress1":"947 Waverly Place","city":"Redwood City","state":"CA","zi
+              pcode":"94062","phone":"415-886-6677"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000af"),"customer_num":115,"f
+              name":"Alfred","lname":"Grant","company":"Gold Medal Sports","add
+              ress1":"776 Gary Avenue","city":"Menlo Park","state":"CA","zipcod
+              e":"94025","phone":"415-356-1123"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b0"),"customer_num":116,"f
+              name":"Jean","lname":"Parmelee","company":"Olympic City","address
+              1":"1104 Spinosa Drive","city":"Mountain View","state":"CA","zipc
+              ode":"94040","phone":"415-534-8822"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b1"),"customer_num":117,"f
+              name":"Arnold","lname":"Sipes","company":"Kids Korner","address1"
+              :"850 Lytton Court","city":"Redwood City","state":"CA","zipcode":
+              "94063","phone":"415-245-4578"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b2"),"customer_num":118,"f
+              name":"Dick","lname":"Baxter","company":"Blue Ribbon Sports","add
+              ress1":"5427 College","city":"Oakland","state":"CA","zipcode":"94
+              609","phone":"415-655-0011"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b3"),"customer_num":119,"f
+              name":"Bob","lname":"Shorter","company":"The Triathletes Club","a
+              ddress1":"2405 Kings Highway","city":"Cherry Hill","state":"NJ","
+              zipcode":"08002","phone":"609-663-6079"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b4"),"customer_num":120,"f
+              name":"Fred","lname":"Jewell","company":"Century Pro Shop","addre
+              ss1":"6627 N. 17th Way","city":"Phoenix","state":"AZ","zipcode":"
+              85016","phone":"602-265-8754"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b5"),"customer_num":121,"f
+              name":"Jason","lname":"Wallack","company":"City Sports","address1
+              ":"Lake Biltmore Mall","address2":"350 W. 23rd Street","city":"Wi
+              lmington","state":"DE","zipcode":"19898","phone":"302-366-7511"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b6"),"customer_num":122,"f
+              name":"Cathy","lname":"O'Brian","company":"The Sporting Life","ad
+              dress1":"543 Nassau Street","city":"Princeton","state":"NJ","zipc
+              ode":"08540","phone":"609-342-0054"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b7"),"customer_num":123,"f
+              name":"Marvin","lname":"Hanlon","company":"Bay Sports","address1"
+              :"10100 Bay Meadows Ro","address2":"Suite 1020","city":"Jacksonvi
+              lle","state":"FL","zipcode":"32256","phone":"904-823-4239"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b8"),"customer_num":124,"f
+              name":"Chris","lname":"Putnum","company":"Putnum's Putters","addr
+              ess1":"4715 S.E. Adams Blvd","address2":"Suite 909C","city":"Bart
+              lesville","state":"OK","zipcode":"74006","phone":"918-355-2074"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000b9"),"customer_num":125,"f
+              name":"James","lname":"Henry","company":"Total Fitness Sports","a
+              ddress1":"1450 Commonwealth Av","city":"Brighton","state":"MA","z
+              ipcode":"02135","phone":"617-232-4159"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000ba"),"customer_num":126,"f
+              name":"Eileen","lname":"Neelie","company":"Neelie's Discount Sp",
+              "address1":"2539 South Utica Str","city":"Denver","state":"CO","z
+              ipcode":"80219","phone":"303-936-7731"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000bb"),"customer_num":127,"f
+              name":"Kim","lname":"Satifer","company":"Big Blue Bike Shop","add
+              ress1":"Blue Island Square","address2":"12222 Gregory Street","ci
+              ty":"Blue Island","state":"NY","zipcode":"60406","phone":"312-944
+              -5691"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000bc"),"customer_num":128,"f
+              name":"Frank","lname":"Lessor","company":"Phoenix University","ad
+              dress1":"Athletic Department","address2":"1817 N. Thomas Road","c
+              ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
+              17"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000c4"),"customer_num":101,"f
+              name":"Ludwig","lname":"Pauli","company":"All Sports Supplies","a
+              ddress1":"213 Erstwild Court","city":"Sunnyvale","state":"CA","zi
+              pcode":"94086","phone":"408-789-8075"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000c5"),"customer_num":102,"f
+              name":"Carole","lname":"Sadler","company":"Sports Spot","address1
+              ":"785 Geary St","city":"San Francisco","state":"CA","zipcode":"9
+              4117","phone":"415-822-1289"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000c6"),"customer_num":103,"f
+              name":"Philip","lname":"Currie","company":"Phil's Sports","addres
+              s1":"654 Poplar","address2":"P. O. Box 3498","city":"Palo Alto","
+              state":"CA","zipcode":"94303","phone":"415-328-4543"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000c7"),"customer_num":104,"f
+              name":"Anthony","lname":"Higgins","company":"Play Ball!","address
+              1":"East Shopping Cntr.","address2":"422 Bay Road","city":"Redwoo
+              d City","state":"CA","zipcode":"94026","phone":"415-368-1100"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000c8"),"customer_num":105,"f
+              name":"Raymond","lname":"Vector","company":"Los Altos Sports","ad
+              dress1":"1899 La Loma Drive","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-776-3249"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000c9"),"customer_num":106,"f
+              name":"George","lname":"Watson","company":"Watson & Son","address
+              1":"1143 Carver Place","city":"Mountain View","state":"CA","zipco
+              de":"94063","phone":"415-389-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000ca"),"customer_num":107,"f
+              name":"Charles","lname":"Ream","company":"Athletic Supplies","add
+              ress1":"41 Jordan Avenue","city":"Palo Alto","state":"CA","zipcod
+              e":"94304","phone":"415-356-9876"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000cb"),"customer_num":108,"f
+              name":"Donald","lname":"Quinn","company":"Quinn's Sports","addres
+              s1":"587 Alvarado","city":"Redwood City","state":"CA","zipcode":"
+              94063","phone":"415-544-8729"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000cc"),"customer_num":109,"f
+              name":"Jane","lname":"Miller","company":"Sport Stuff","address1":
+              "Mayfair Mart","address2":"7345 Ross Blvd.","city":"Sunnyvale","s
+              tate":"CA","zipcode":"94086","phone":"408-723-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000cd"),"customer_num":110,"f
+              name":"Roy","lname":"Jaeger","company":"AA Athletics","address1":
+              "520 Topaz Way","city":"Redwood City","state":"CA","zipcode":"940
+              62","phone":"415-743-3611"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000ce"),"customer_num":111,"f
+              name":"Frances","lname":"Keyes","company":"Sports Center","addres
+              s1":"3199 Sterling Court","city":"Sunnyvale","state":"CA","zipcod
+              e":"94085","phone":"408-277-7245"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000cf"),"customer_num":112,"f
+              name":"Margaret","lname":"Lawson","company":"Runners & Others","a
+              ddress1":"234 Wyandotte Way","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-887-7235"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d0"),"customer_num":113,"f
+              name":"Lana","lname":"Beatty","company":"Sportstown","address1":"
+              654 Oak Grove","city":"Menlo Park","state":"CA","zipcode":"94025"
+              ,"phone":"415-356-9982"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d1"),"customer_num":114,"f
+              name":"Frank","lname":"Albertson","company":"Sporting Place","add
+              ress1":"947 Waverly Place","city":"Redwood City","state":"CA","zi
+              pcode":"94062","phone":"415-886-6677"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d2"),"customer_num":115,"f
+              name":"Alfred","lname":"Grant","company":"Gold Medal Sports","add
+              ress1":"776 Gary Avenue","city":"Menlo Park","state":"CA","zipcod
+              e":"94025","phone":"415-356-1123"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d3"),"customer_num":116,"f
+              name":"Jean","lname":"Parmelee","company":"Olympic City","address
+              1":"1104 Spinosa Drive","city":"Mountain View","state":"CA","zipc
+              ode":"94040","phone":"415-534-8822"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d4"),"customer_num":117,"f
+              name":"Arnold","lname":"Sipes","company":"Kids Korner","address1"
+              :"850 Lytton Court","city":"Redwood City","state":"CA","zipcode":
+              "94063","phone":"415-245-4578"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d5"),"customer_num":118,"f
+              name":"Dick","lname":"Baxter","company":"Blue Ribbon Sports","add
+              ress1":"5427 College","city":"Oakland","state":"CA","zipcode":"94
+              609","phone":"415-655-0011"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d6"),"customer_num":119,"f
+              name":"Bob","lname":"Shorter","company":"The Triathletes Club","a
+              ddress1":"2405 Kings Highway","city":"Cherry Hill","state":"NJ","
+              zipcode":"08002","phone":"609-663-6079"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d7"),"customer_num":120,"f
+              name":"Fred","lname":"Jewell","company":"Century Pro Shop","addre
+              ss1":"6627 N. 17th Way","city":"Phoenix","state":"AZ","zipcode":"
+              85016","phone":"602-265-8754"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d8"),"customer_num":121,"f
+              name":"Jason","lname":"Wallack","company":"City Sports","address1
+              ":"Lake Biltmore Mall","address2":"350 W. 23rd Street","city":"Wi
+              lmington","state":"DE","zipcode":"19898","phone":"302-366-7511"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000d9"),"customer_num":122,"f
+              name":"Cathy","lname":"O'Brian","company":"The Sporting Life","ad
+              dress1":"543 Nassau Street","city":"Princeton","state":"NJ","zipc
+              ode":"08540","phone":"609-342-0054"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000da"),"customer_num":123,"f
+              name":"Marvin","lname":"Hanlon","company":"Bay Sports","address1"
+              :"10100 Bay Meadows Ro","address2":"Suite 1020","city":"Jacksonvi
+              lle","state":"FL","zipcode":"32256","phone":"904-823-4239"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000db"),"customer_num":124,"f
+              name":"Chris","lname":"Putnum","company":"Putnum's Putters","addr
+              ess1":"4715 S.E. Adams Blvd","address2":"Suite 909C","city":"Bart
+              lesville","state":"OK","zipcode":"74006","phone":"918-355-2074"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000dc"),"customer_num":125,"f
+              name":"James","lname":"Henry","company":"Total Fitness Sports","a
+              ddress1":"1450 Commonwealth Av","city":"Brighton","state":"MA","z
+              ipcode":"02135","phone":"617-232-4159"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000dd"),"customer_num":126,"f
+              name":"Eileen","lname":"Neelie","company":"Neelie's Discount Sp",
+              "address1":"2539 South Utica Str","city":"Denver","state":"CO","z
+              ipcode":"80219","phone":"303-936-7731"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000de"),"customer_num":127,"f
+              name":"Kim","lname":"Satifer","company":"Big Blue Bike Shop","add
+              ress1":"Blue Island Square","address2":"12222 Gregory Street","ci
+              ty":"Blue Island","state":"NY","zipcode":"60406","phone":"312-944
+              -5691"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000df"),"customer_num":128,"f
+              name":"Frank","lname":"Lessor","company":"Phoenix University","ad
+              dress1":"Athletic Department","address2":"1817 N. Thomas Road","c
+              ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
+              17"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000e7"),"customer_num":101,"f
+              name":"Ludwig","lname":"Pauli","company":"All Sports Supplies","a
+              ddress1":"213 Erstwild Court","city":"Sunnyvale","state":"CA","zi
+              pcode":"94086","phone":"408-789-8075"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000e8"),"customer_num":102,"f
+              name":"Carole","lname":"Sadler","company":"Sports Spot","address1
+              ":"785 Geary St","city":"San Francisco","state":"CA","zipcode":"9
+              4117","phone":"415-822-1289"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000e9"),"customer_num":103,"f
+              name":"Philip","lname":"Currie","company":"Phil's Sports","addres
+              s1":"654 Poplar","address2":"P. O. Box 3498","city":"Palo Alto","
+              state":"CA","zipcode":"94303","phone":"415-328-4543"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000ea"),"customer_num":104,"f
+              name":"Anthony","lname":"Higgins","company":"Play Ball!","address
+              1":"East Shopping Cntr.","address2":"422 Bay Road","city":"Redwoo
+              d City","state":"CA","zipcode":"94026","phone":"415-368-1100"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000eb"),"customer_num":105,"f
+              name":"Raymond","lname":"Vector","company":"Los Altos Sports","ad
+              dress1":"1899 La Loma Drive","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-776-3249"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000ec"),"customer_num":106,"f
+              name":"George","lname":"Watson","company":"Watson & Son","address
+              1":"1143 Carver Place","city":"Mountain View","state":"CA","zipco
+              de":"94063","phone":"415-389-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000ed"),"customer_num":107,"f
+              name":"Charles","lname":"Ream","company":"Athletic Supplies","add
+              ress1":"41 Jordan Avenue","city":"Palo Alto","state":"CA","zipcod
+              e":"94304","phone":"415-356-9876"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000ee"),"customer_num":108,"f
+              name":"Donald","lname":"Quinn","company":"Quinn's Sports","addres
+              s1":"587 Alvarado","city":"Redwood City","state":"CA","zipcode":"
+              94063","phone":"415-544-8729"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000ef"),"customer_num":109,"f
+              name":"Jane","lname":"Miller","company":"Sport Stuff","address1":
+              "Mayfair Mart","address2":"7345 Ross Blvd.","city":"Sunnyvale","s
+              tate":"CA","zipcode":"94086","phone":"408-723-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f0"),"customer_num":110,"f
+              name":"Roy","lname":"Jaeger","company":"AA Athletics","address1":
+              "520 Topaz Way","city":"Redwood City","state":"CA","zipcode":"940
+              62","phone":"415-743-3611"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f1"),"customer_num":111,"f
+              name":"Frances","lname":"Keyes","company":"Sports Center","addres
+              s1":"3199 Sterling Court","city":"Sunnyvale","state":"CA","zipcod
+              e":"94085","phone":"408-277-7245"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f2"),"customer_num":112,"f
+              name":"Margaret","lname":"Lawson","company":"Runners & Others","a
+              ddress1":"234 Wyandotte Way","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-887-7235"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f3"),"customer_num":113,"f
+              name":"Lana","lname":"Beatty","company":"Sportstown","address1":"
+              654 Oak Grove","city":"Menlo Park","state":"CA","zipcode":"94025"
+              ,"phone":"415-356-9982"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f4"),"customer_num":114,"f
+              name":"Frank","lname":"Albertson","company":"Sporting Place","add
+              ress1":"947 Waverly Place","city":"Redwood City","state":"CA","zi
+              pcode":"94062","phone":"415-886-6677"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f5"),"customer_num":115,"f
+              name":"Alfred","lname":"Grant","company":"Gold Medal Sports","add
+              ress1":"776 Gary Avenue","city":"Menlo Park","state":"CA","zipcod
+              e":"94025","phone":"415-356-1123"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f6"),"customer_num":116,"f
+              name":"Jean","lname":"Parmelee","company":"Olympic City","address
+              1":"1104 Spinosa Drive","city":"Mountain View","state":"CA","zipc
+              ode":"94040","phone":"415-534-8822"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f7"),"customer_num":117,"f
+              name":"Arnold","lname":"Sipes","company":"Kids Korner","address1"
+              :"850 Lytton Court","city":"Redwood City","state":"CA","zipcode":
+              "94063","phone":"415-245-4578"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f8"),"customer_num":118,"f
+              name":"Dick","lname":"Baxter","company":"Blue Ribbon Sports","add
+              ress1":"5427 College","city":"Oakland","state":"CA","zipcode":"94
+              609","phone":"415-655-0011"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000f9"),"customer_num":119,"f
+              name":"Bob","lname":"Shorter","company":"The Triathletes Club","a
+              ddress1":"2405 Kings Highway","city":"Cherry Hill","state":"NJ","
+              zipcode":"08002","phone":"609-663-6079"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000fa"),"customer_num":120,"f
+              name":"Fred","lname":"Jewell","company":"Century Pro Shop","addre
+              ss1":"6627 N. 17th Way","city":"Phoenix","state":"AZ","zipcode":"
+              85016","phone":"602-265-8754"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000fb"),"customer_num":121,"f
+              name":"Jason","lname":"Wallack","company":"City Sports","address1
+              ":"Lake Biltmore Mall","address2":"350 W. 23rd Street","city":"Wi
+              lmington","state":"DE","zipcode":"19898","phone":"302-366-7511"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000fc"),"customer_num":122,"f
+              name":"Cathy","lname":"O'Brian","company":"The Sporting Life","ad
+              dress1":"543 Nassau Street","city":"Princeton","state":"NJ","zipc
+              ode":"08540","phone":"609-342-0054"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000fd"),"customer_num":123,"f
+              name":"Marvin","lname":"Hanlon","company":"Bay Sports","address1"
+              :"10100 Bay Meadows Ro","address2":"Suite 1020","city":"Jacksonvi
+              lle","state":"FL","zipcode":"32256","phone":"904-823-4239"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000fe"),"customer_num":124,"f
+              name":"Chris","lname":"Putnum","company":"Putnum's Putters","addr
+              ess1":"4715 S.E. Adams Blvd","address2":"Suite 909C","city":"Bart
+              lesville","state":"OK","zipcode":"74006","phone":"918-355-2074"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa30000000ff"),"customer_num":125,"f
+              name":"James","lname":"Henry","company":"Total Fitness Sports","a
+              ddress1":"1450 Commonwealth Av","city":"Brighton","state":"MA","z
+              ipcode":"02135","phone":"617-232-4159"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000100"),"customer_num":126,"f
+              name":"Eileen","lname":"Neelie","company":"Neelie's Discount Sp",
+              "address1":"2539 South Utica Str","city":"Denver","state":"CO","z
+              ipcode":"80219","phone":"303-936-7731"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000101"),"customer_num":127,"f
+              name":"Kim","lname":"Satifer","company":"Big Blue Bike Shop","add
+              ress1":"Blue Island Square","address2":"12222 Gregory Street","ci
+              ty":"Blue Island","state":"NY","zipcode":"60406","phone":"312-944
+              -5691"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000102"),"customer_num":128,"f
+              name":"Frank","lname":"Lessor","company":"Phoenix University","ad
+              dress1":"Athletic Department","address2":"1817 N. Thomas Road","c
+              ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
+              17"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000010a"),"customer_num":101,"f
+              name":"Ludwig","lname":"Pauli","company":"All Sports Supplies","a
+              ddress1":"213 Erstwild Court","city":"Sunnyvale","state":"CA","zi
+              pcode":"94086","phone":"408-789-8075"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000010b"),"customer_num":102,"f
+              name":"Carole","lname":"Sadler","company":"Sports Spot","address1
+              ":"785 Geary St","city":"San Francisco","state":"CA","zipcode":"9
+              4117","phone":"415-822-1289"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000010c"),"customer_num":103,"f
+              name":"Philip","lname":"Currie","company":"Phil's Sports","addres
+              s1":"654 Poplar","address2":"P. O. Box 3498","city":"Palo Alto","
+              state":"CA","zipcode":"94303","phone":"415-328-4543"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000010d"),"customer_num":104,"f
+              name":"Anthony","lname":"Higgins","company":"Play Ball!","address
+              1":"East Shopping Cntr.","address2":"422 Bay Road","city":"Redwoo
+              d City","state":"CA","zipcode":"94026","phone":"415-368-1100"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000010e"),"customer_num":105,"f
+              name":"Raymond","lname":"Vector","company":"Los Altos Sports","ad
+              dress1":"1899 La Loma Drive","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-776-3249"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000010f"),"customer_num":106,"f
+              name":"George","lname":"Watson","company":"Watson & Son","address
+              1":"1143 Carver Place","city":"Mountain View","state":"CA","zipco
+              de":"94063","phone":"415-389-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000110"),"customer_num":107,"f
+              name":"Charles","lname":"Ream","company":"Athletic Supplies","add
+              ress1":"41 Jordan Avenue","city":"Palo Alto","state":"CA","zipcod
+              e":"94304","phone":"415-356-9876"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000111"),"customer_num":108,"f
+              name":"Donald","lname":"Quinn","company":"Quinn's Sports","addres
+              s1":"587 Alvarado","city":"Redwood City","state":"CA","zipcode":"
+              94063","phone":"415-544-8729"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000112"),"customer_num":109,"f
+              name":"Jane","lname":"Miller","company":"Sport Stuff","address1":
+              "Mayfair Mart","address2":"7345 Ross Blvd.","city":"Sunnyvale","s
+              tate":"CA","zipcode":"94086","phone":"408-723-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000113"),"customer_num":110,"f
+              name":"Roy","lname":"Jaeger","company":"AA Athletics","address1":
+              "520 Topaz Way","city":"Redwood City","state":"CA","zipcode":"940
+              62","phone":"415-743-3611"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000114"),"customer_num":111,"f
+              name":"Frances","lname":"Keyes","company":"Sports Center","addres
+              s1":"3199 Sterling Court","city":"Sunnyvale","state":"CA","zipcod
+              e":"94085","phone":"408-277-7245"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000115"),"customer_num":112,"f
+              name":"Margaret","lname":"Lawson","company":"Runners & Others","a
+              ddress1":"234 Wyandotte Way","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-887-7235"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000116"),"customer_num":113,"f
+              name":"Lana","lname":"Beatty","company":"Sportstown","address1":"
+              654 Oak Grove","city":"Menlo Park","state":"CA","zipcode":"94025"
+              ,"phone":"415-356-9982"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000117"),"customer_num":114,"f
+              name":"Frank","lname":"Albertson","company":"Sporting Place","add
+              ress1":"947 Waverly Place","city":"Redwood City","state":"CA","zi
+              pcode":"94062","phone":"415-886-6677"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000118"),"customer_num":115,"f
+              name":"Alfred","lname":"Grant","company":"Gold Medal Sports","add
+              ress1":"776 Gary Avenue","city":"Menlo Park","state":"CA","zipcod
+              e":"94025","phone":"415-356-1123"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000119"),"customer_num":116,"f
+              name":"Jean","lname":"Parmelee","company":"Olympic City","address
+              1":"1104 Spinosa Drive","city":"Mountain View","state":"CA","zipc
+              ode":"94040","phone":"415-534-8822"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000011a"),"customer_num":117,"f
+              name":"Arnold","lname":"Sipes","company":"Kids Korner","address1"
+              :"850 Lytton Court","city":"Redwood City","state":"CA","zipcode":
+              "94063","phone":"415-245-4578"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000011b"),"customer_num":118,"f
+              name":"Dick","lname":"Baxter","company":"Blue Ribbon Sports","add
+              ress1":"5427 College","city":"Oakland","state":"CA","zipcode":"94
+              609","phone":"415-655-0011"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000011c"),"customer_num":119,"f
+              name":"Bob","lname":"Shorter","company":"The Triathletes Club","a
+              ddress1":"2405 Kings Highway","city":"Cherry Hill","state":"NJ","
+              zipcode":"08002","phone":"609-663-6079"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000011d"),"customer_num":120,"f
+              name":"Fred","lname":"Jewell","company":"Century Pro Shop","addre
+              ss1":"6627 N. 17th Way","city":"Phoenix","state":"AZ","zipcode":"
+              85016","phone":"602-265-8754"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000011e"),"customer_num":121,"f
+              name":"Jason","lname":"Wallack","company":"City Sports","address1
+              ":"Lake Biltmore Mall","address2":"350 W. 23rd Street","city":"Wi
+              lmington","state":"DE","zipcode":"19898","phone":"302-366-7511"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000011f"),"customer_num":122,"f
+              name":"Cathy","lname":"O'Brian","company":"The Sporting Life","ad
+              dress1":"543 Nassau Street","city":"Princeton","state":"NJ","zipc
+              ode":"08540","phone":"609-342-0054"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000120"),"customer_num":123,"f
+              name":"Marvin","lname":"Hanlon","company":"Bay Sports","address1"
+              :"10100 Bay Meadows Ro","address2":"Suite 1020","city":"Jacksonvi
+              lle","state":"FL","zipcode":"32256","phone":"904-823-4239"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000121"),"customer_num":124,"f
+              name":"Chris","lname":"Putnum","company":"Putnum's Putters","addr
+              ess1":"4715 S.E. Adams Blvd","address2":"Suite 909C","city":"Bart
+              lesville","state":"OK","zipcode":"74006","phone":"918-355-2074"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000122"),"customer_num":125,"f
+              name":"James","lname":"Henry","company":"Total Fitness Sports","a
+              ddress1":"1450 Commonwealth Av","city":"Brighton","state":"MA","z
+              ipcode":"02135","phone":"617-232-4159"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000123"),"customer_num":126,"f
+              name":"Eileen","lname":"Neelie","company":"Neelie's Discount Sp",
+              "address1":"2539 South Utica Str","city":"Denver","state":"CO","z
+              ipcode":"80219","phone":"303-936-7731"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000124"),"customer_num":127,"f
+              name":"Kim","lname":"Satifer","company":"Big Blue Bike Shop","add
+              ress1":"Blue Island Square","address2":"12222 Gregory Street","ci
+              ty":"Blue Island","state":"NY","zipcode":"60406","phone":"312-944
+              -5691"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000125"),"customer_num":128,"f
+              name":"Frank","lname":"Lessor","company":"Phoenix University","ad
+              dress1":"Athletic Department","address2":"1817 N. Thomas Road","c
+              ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
+              17"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000012d"),"customer_num":101,"f
+              name":"Ludwig","lname":"Pauli","company":"All Sports Supplies","a
+              ddress1":"213 Erstwild Court","city":"Sunnyvale","state":"CA","zi
+              pcode":"94086","phone":"408-789-8075"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000012e"),"customer_num":102,"f
+              name":"Carole","lname":"Sadler","company":"Sports Spot","address1
+              ":"785 Geary St","city":"San Francisco","state":"CA","zipcode":"9
+              4117","phone":"415-822-1289"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000012f"),"customer_num":103,"f
+              name":"Philip","lname":"Currie","company":"Phil's Sports","addres
+              s1":"654 Poplar","address2":"P. O. Box 3498","city":"Palo Alto","
+              state":"CA","zipcode":"94303","phone":"415-328-4543"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000130"),"customer_num":104,"f
+              name":"Anthony","lname":"Higgins","company":"Play Ball!","address
+              1":"East Shopping Cntr.","address2":"422 Bay Road","city":"Redwoo
+              d City","state":"CA","zipcode":"94026","phone":"415-368-1100"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000131"),"customer_num":105,"f
+              name":"Raymond","lname":"Vector","company":"Los Altos Sports","ad
+              dress1":"1899 La Loma Drive","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-776-3249"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000132"),"customer_num":106,"f
+              name":"George","lname":"Watson","company":"Watson & Son","address
+              1":"1143 Carver Place","city":"Mountain View","state":"CA","zipco
+              de":"94063","phone":"415-389-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000133"),"customer_num":107,"f
+              name":"Charles","lname":"Ream","company":"Athletic Supplies","add
+              ress1":"41 Jordan Avenue","city":"Palo Alto","state":"CA","zipcod
+              e":"94304","phone":"415-356-9876"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000134"),"customer_num":108,"f
+              name":"Donald","lname":"Quinn","company":"Quinn's Sports","addres
+              s1":"587 Alvarado","city":"Redwood City","state":"CA","zipcode":"
+              94063","phone":"415-544-8729"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000135"),"customer_num":109,"f
+              name":"Jane","lname":"Miller","company":"Sport Stuff","address1":
+              "Mayfair Mart","address2":"7345 Ross Blvd.","city":"Sunnyvale","s
+              tate":"CA","zipcode":"94086","phone":"408-723-8789"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000136"),"customer_num":110,"f
+              name":"Roy","lname":"Jaeger","company":"AA Athletics","address1":
+              "520 Topaz Way","city":"Redwood City","state":"CA","zipcode":"940
+              62","phone":"415-743-3611"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000137"),"customer_num":111,"f
+              name":"Frances","lname":"Keyes","company":"Sports Center","addres
+              s1":"3199 Sterling Court","city":"Sunnyvale","state":"CA","zipcod
+              e":"94085","phone":"408-277-7245"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000138"),"customer_num":112,"f
+              name":"Margaret","lname":"Lawson","company":"Runners & Others","a
+              ddress1":"234 Wyandotte Way","city":"Los Altos","state":"CA","zip
+              code":"94022","phone":"415-887-7235"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000139"),"customer_num":113,"f
+              name":"Lana","lname":"Beatty","company":"Sportstown","address1":"
+              654 Oak Grove","city":"Menlo Park","state":"CA","zipcode":"94025"
+              ,"phone":"415-356-9982"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000013a"),"customer_num":114,"f
+              name":"Frank","lname":"Albertson","company":"Sporting Place","add
+              ress1":"947 Waverly Place","city":"Redwood City","state":"CA","zi
+              pcode":"94062","phone":"415-886-6677"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000013b"),"customer_num":115,"f
+              name":"Alfred","lname":"Grant","company":"Gold Medal Sports","add
+              ress1":"776 Gary Avenue","city":"Menlo Park","state":"CA","zipcod
+              e":"94025","phone":"415-356-1123"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000013c"),"customer_num":116,"f
+              name":"Jean","lname":"Parmelee","company":"Olympic City","address
+              1":"1104 Spinosa Drive","city":"Mountain View","state":"CA","zipc
+              ode":"94040","phone":"415-534-8822"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000013d"),"customer_num":117,"f
+              name":"Arnold","lname":"Sipes","company":"Kids Korner","address1"
+              :"850 Lytton Court","city":"Redwood City","state":"CA","zipcode":
+              "94063","phone":"415-245-4578"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000013e"),"customer_num":118,"f
+              name":"Dick","lname":"Baxter","company":"Blue Ribbon Sports","add
+              ress1":"5427 College","city":"Oakland","state":"CA","zipcode":"94
+              609","phone":"415-655-0011"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000013f"),"customer_num":119,"f
+              name":"Bob","lname":"Shorter","company":"The Triathletes Club","a
+              ddress1":"2405 Kings Highway","city":"Cherry Hill","state":"NJ","
+              zipcode":"08002","phone":"609-663-6079"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000140"),"customer_num":120,"f
+              name":"Fred","lname":"Jewell","company":"Century Pro Shop","addre
+              ss1":"6627 N. 17th Way","city":"Phoenix","state":"AZ","zipcode":"
+              85016","phone":"602-265-8754"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000141"),"customer_num":121,"f
+              name":"Jason","lname":"Wallack","company":"City Sports","address1
+              ":"Lake Biltmore Mall","address2":"350 W. 23rd Street","city":"Wi
+              lmington","state":"DE","zipcode":"19898","phone":"302-366-7511"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000142"),"customer_num":122,"f
+              name":"Cathy","lname":"O'Brian","company":"The Sporting Life","ad
+              dress1":"543 Nassau Street","city":"Princeton","state":"NJ","zipc
+              ode":"08540","phone":"609-342-0054"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000143"),"customer_num":123,"f
+              name":"Marvin","lname":"Hanlon","company":"Bay Sports","address1"
+              :"10100 Bay Meadows Ro","address2":"Suite 1020","city":"Jacksonvi
+              lle","state":"FL","zipcode":"32256","phone":"904-823-4239"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000144"),"customer_num":124,"f
+              name":"Chris","lname":"Putnum","company":"Putnum's Putters","addr
+              ess1":"4715 S.E. Adams Blvd","address2":"Suite 909C","city":"Bart
+              lesville","state":"OK","zipcode":"74006","phone":"918-355-2074"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000145"),"customer_num":125,"f
+              name":"James","lname":"Henry","company":"Total Fitness Sports","a
+              ddress1":"1450 Commonwealth Av","city":"Brighton","state":"MA","z
+              ipcode":"02135","phone":"617-232-4159"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000146"),"customer_num":126,"f
+              name":"Eileen","lname":"Neelie","company":"Neelie's Discount Sp",
+              "address1":"2539 South Utica Str","city":"Denver","state":"CO","z
+              ipcode":"80219","phone":"303-936-7731"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000147"),"customer_num":127,"f
+              name":"Kim","lname":"Satifer","company":"Big Blue Bike Shop","add
+              ress1":"Blue Island Square","address2":"12222 Gregory Street","ci
+              ty":"Blue Island","state":"NY","zipcode":"60406","phone":"312-944
+              -5691"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000148"),"customer_num":128,"f
+              name":"Frank","lname":"Lessor","company":"Phoenix University","ad
+              dress1":"Athletic Department","address2":"1817 N. Thomas Road","c
+              ity":"Phoenix","state":"AZ","zipcode":"85008","phone":"602-533-18
+              17"} 
+

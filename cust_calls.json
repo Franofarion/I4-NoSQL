@@ -57,3 +57,416 @@
               ing 5% discount to placate customer due to second offense and lat
               eness of resolution because of holiday"} 
 
+
+
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000077"),"customer_num":106,"c
+              all_dtime":ISODate("2008-06-12T08:20:00.000Z"),"user_id":"maryj",
+              "call_code":"D","call_descr":"Order was received, but two of the 
+              cans of ANZ tennis balls within the case were empty","res_dtime":
+              ISODate("2008-06-12T08:25:00.000Z"),"res_descr":"Authorized credi
+              t for two cans to customer, issued apology. Called ANZ buyer to r
+              eport the QA problem."} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000078"),"customer_num":110,"c
+              all_dtime":ISODate("2008-07-07T10:24:00.000Z"),"user_id":"richc",
+              "call_code":"L","call_descr":"Order placed one month ago (6/7) no
+              t received.","res_dtime":ISODate("2008-07-07T10:30:00.000Z"),"res
+              _descr":"Checked with shipping (Ed Smith). Order sent yesterday- 
+              we were waiting for goods from ANZ. Next time will call with dela
+              y if necessary."} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa3000000079"),"customer_num":119,"c
+              all_dtime":ISODate("2008-07-01T15:00:00.000Z"),"user_id":"richc",
+              "call_code":"B","call_descr":"Bill does not reflect credit from p
+              revious order","res_dtime":ISODate("2008-07-02T08:21:00.000Z"),"r
+              es_descr":"Spoke with Jane Akant in Finance. She found the error 
+              and is sending new bill to customer"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000007a"),"customer_num":121,"c
+              all_dtime":ISODate("2008-07-10T14:05:00.000Z"),"user_id":"maryj",
+              "call_code":"O","call_descr":"Customer likes our merchandise. Req
+              uests that we stock more types of infant joggers. Will call back 
+              to place order.","res_dtime":ISODate("2008-07-10T14:06:00.000Z"),
+              "res_descr":"Sent note to marketing group of interest in infant j
+              oggers"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000007b"),"customer_num":127,"c
+              all_dtime":ISODate("2008-07-31T14:30:00.000Z"),"user_id":"maryj",
+              "call_code":"I","call_descr":"Received Hero watches (item # 304) 
+              instead of ANZ watches","res_descr":"Sent memo to shipping to sen
+              d ANZ item 304 to customer and pickup HRO watches. Should be done
+               tomorrow, 8/1"} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000007c"),"customer_num":116,"c
+              all_dtime":ISODate("2007-11-28T13:34:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Received plain white swim caps (31
+              3 ANZ) instead of navy with team logo (313 SHM)","res_dtime":ISOD
+              ate("2007-11-28T16:47:00.000Z"),"res_descr":"Shipping found corre
+              ct case in warehouse and express mailed it in time for swim meet.
+              "} 
+
+(expression)  {"_id":ObjectId("5ad4c1adb5fdaa300000007d"),"customer_num":116,"c
+              all_dtime":ISODate("2007-12-21T11:24:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Second complaint from this custome
+              r! Received two cases right-handed outfielder gloves (1 HRO) inst
+              ead of one case lefties.","res_dtime":ISODate("2007-12-27T08:19:0
+              0.000Z"),"res_descr":"Memo to shipping (Ava Brown) to send case o
+              f left-handed gloves, pick up wrong case; memo to billing request
+              ing 5% discount to placate customer due to second offense and lat
+              eness of resolution because of holiday"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000009a"),"customer_num":106,"c
+              all_dtime":ISODate("2008-06-12T08:20:00.000Z"),"user_id":"maryj",
+              "call_code":"D","call_descr":"Order was received, but two of the 
+              cans of ANZ tennis balls within the case were empty","res_dtime":
+              ISODate("2008-06-12T08:25:00.000Z"),"res_descr":"Authorized credi
+              t for two cans to customer, issued apology. Called ANZ buyer to r
+              eport the QA problem."} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000009b"),"customer_num":110,"c
+              all_dtime":ISODate("2008-07-07T10:24:00.000Z"),"user_id":"richc",
+              "call_code":"L","call_descr":"Order placed one month ago (6/7) no
+              t received.","res_dtime":ISODate("2008-07-07T10:30:00.000Z"),"res
+              _descr":"Checked with shipping (Ed Smith). Order sent yesterday- 
+              we were waiting for goods from ANZ. Next time will call with dela
+              y if necessary."} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000009c"),"customer_num":119,"c
+              all_dtime":ISODate("2008-07-01T15:00:00.000Z"),"user_id":"richc",
+              "call_code":"B","call_descr":"Bill does not reflect credit from p
+              revious order","res_dtime":ISODate("2008-07-02T08:21:00.000Z"),"r
+              es_descr":"Spoke with Jane Akant in Finance. She found the error 
+              and is sending new bill to customer"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000009d"),"customer_num":121,"c
+              all_dtime":ISODate("2008-07-10T14:05:00.000Z"),"user_id":"maryj",
+              "call_code":"O","call_descr":"Customer likes our merchandise. Req
+              uests that we stock more types of infant joggers. Will call back 
+              to place order.","res_dtime":ISODate("2008-07-10T14:06:00.000Z"),
+              "res_descr":"Sent note to marketing group of interest in infant j
+              oggers"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000009e"),"customer_num":127,"c
+              all_dtime":ISODate("2008-07-31T14:30:00.000Z"),"user_id":"maryj",
+              "call_code":"I","call_descr":"Received Hero watches (item # 304) 
+              instead of ANZ watches","res_descr":"Sent memo to shipping to sen
+              d ANZ item 304 to customer and pickup HRO watches. Should be done
+               tomorrow, 8/1"} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa300000009f"),"customer_num":116,"c
+              all_dtime":ISODate("2007-11-28T13:34:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Received plain white swim caps (31
+              3 ANZ) instead of navy with team logo (313 SHM)","res_dtime":ISOD
+              ate("2007-11-28T16:47:00.000Z"),"res_descr":"Shipping found corre
+              ct case in warehouse and express mailed it in time for swim meet.
+              "} 
+
+(expression)  {"_id":ObjectId("5ad4c1c3b5fdaa30000000a0"),"customer_num":116,"c
+              all_dtime":ISODate("2007-12-21T11:24:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Second complaint from this custome
+              r! Received two cases right-handed outfielder gloves (1 HRO) inst
+              ead of one case lefties.","res_dtime":ISODate("2007-12-27T08:19:0
+              0.000Z"),"res_descr":"Memo to shipping (Ava Brown) to send case o
+              f left-handed gloves, pick up wrong case; memo to billing request
+              ing 5% discount to placate customer due to second offense and lat
+              eness of resolution because of holiday"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000bd"),"customer_num":106,"c
+              all_dtime":ISODate("2008-06-12T08:20:00.000Z"),"user_id":"maryj",
+              "call_code":"D","call_descr":"Order was received, but two of the 
+              cans of ANZ tennis balls within the case were empty","res_dtime":
+              ISODate("2008-06-12T08:25:00.000Z"),"res_descr":"Authorized credi
+              t for two cans to customer, issued apology. Called ANZ buyer to r
+              eport the QA problem."} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000be"),"customer_num":110,"c
+              all_dtime":ISODate("2008-07-07T10:24:00.000Z"),"user_id":"richc",
+              "call_code":"L","call_descr":"Order placed one month ago (6/7) no
+              t received.","res_dtime":ISODate("2008-07-07T10:30:00.000Z"),"res
+              _descr":"Checked with shipping (Ed Smith). Order sent yesterday- 
+              we were waiting for goods from ANZ. Next time will call with dela
+              y if necessary."} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000bf"),"customer_num":119,"c
+              all_dtime":ISODate("2008-07-01T15:00:00.000Z"),"user_id":"richc",
+              "call_code":"B","call_descr":"Bill does not reflect credit from p
+              revious order","res_dtime":ISODate("2008-07-02T08:21:00.000Z"),"r
+              es_descr":"Spoke with Jane Akant in Finance. She found the error 
+              and is sending new bill to customer"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000c0"),"customer_num":121,"c
+              all_dtime":ISODate("2008-07-10T14:05:00.000Z"),"user_id":"maryj",
+              "call_code":"O","call_descr":"Customer likes our merchandise. Req
+              uests that we stock more types of infant joggers. Will call back 
+              to place order.","res_dtime":ISODate("2008-07-10T14:06:00.000Z"),
+              "res_descr":"Sent note to marketing group of interest in infant j
+              oggers"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000c1"),"customer_num":127,"c
+              all_dtime":ISODate("2008-07-31T14:30:00.000Z"),"user_id":"maryj",
+              "call_code":"I","call_descr":"Received Hero watches (item # 304) 
+              instead of ANZ watches","res_descr":"Sent memo to shipping to sen
+              d ANZ item 304 to customer and pickup HRO watches. Should be done
+               tomorrow, 8/1"} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000c2"),"customer_num":116,"c
+              all_dtime":ISODate("2007-11-28T13:34:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Received plain white swim caps (31
+              3 ANZ) instead of navy with team logo (313 SHM)","res_dtime":ISOD
+              ate("2007-11-28T16:47:00.000Z"),"res_descr":"Shipping found corre
+              ct case in warehouse and express mailed it in time for swim meet.
+              "} 
+
+(expression)  {"_id":ObjectId("5ad4c1deb5fdaa30000000c3"),"customer_num":116,"c
+              all_dtime":ISODate("2007-12-21T11:24:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Second complaint from this custome
+              r! Received two cases right-handed outfielder gloves (1 HRO) inst
+              ead of one case lefties.","res_dtime":ISODate("2007-12-27T08:19:0
+              0.000Z"),"res_descr":"Memo to shipping (Ava Brown) to send case o
+              f left-handed gloves, pick up wrong case; memo to billing request
+              ing 5% discount to placate customer due to second offense and lat
+              eness of resolution because of holiday"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000e0"),"customer_num":106,"c
+              all_dtime":ISODate("2008-06-12T08:20:00.000Z"),"user_id":"maryj",
+              "call_code":"D","call_descr":"Order was received, but two of the 
+              cans of ANZ tennis balls within the case were empty","res_dtime":
+              ISODate("2008-06-12T08:25:00.000Z"),"res_descr":"Authorized credi
+              t for two cans to customer, issued apology. Called ANZ buyer to r
+              eport the QA problem."} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000e1"),"customer_num":110,"c
+              all_dtime":ISODate("2008-07-07T10:24:00.000Z"),"user_id":"richc",
+              "call_code":"L","call_descr":"Order placed one month ago (6/7) no
+              t received.","res_dtime":ISODate("2008-07-07T10:30:00.000Z"),"res
+              _descr":"Checked with shipping (Ed Smith). Order sent yesterday- 
+              we were waiting for goods from ANZ. Next time will call with dela
+              y if necessary."} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000e2"),"customer_num":119,"c
+              all_dtime":ISODate("2008-07-01T15:00:00.000Z"),"user_id":"richc",
+              "call_code":"B","call_descr":"Bill does not reflect credit from p
+              revious order","res_dtime":ISODate("2008-07-02T08:21:00.000Z"),"r
+              es_descr":"Spoke with Jane Akant in Finance. She found the error 
+              and is sending new bill to customer"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000e3"),"customer_num":121,"c
+              all_dtime":ISODate("2008-07-10T14:05:00.000Z"),"user_id":"maryj",
+              "call_code":"O","call_descr":"Customer likes our merchandise. Req
+              uests that we stock more types of infant joggers. Will call back 
+              to place order.","res_dtime":ISODate("2008-07-10T14:06:00.000Z"),
+              "res_descr":"Sent note to marketing group of interest in infant j
+              oggers"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000e4"),"customer_num":127,"c
+              all_dtime":ISODate("2008-07-31T14:30:00.000Z"),"user_id":"maryj",
+              "call_code":"I","call_descr":"Received Hero watches (item # 304) 
+              instead of ANZ watches","res_descr":"Sent memo to shipping to sen
+              d ANZ item 304 to customer and pickup HRO watches. Should be done
+               tomorrow, 8/1"} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000e5"),"customer_num":116,"c
+              all_dtime":ISODate("2007-11-28T13:34:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Received plain white swim caps (31
+              3 ANZ) instead of navy with team logo (313 SHM)","res_dtime":ISOD
+              ate("2007-11-28T16:47:00.000Z"),"res_descr":"Shipping found corre
+              ct case in warehouse and express mailed it in time for swim meet.
+              "} 
+
+(expression)  {"_id":ObjectId("5ad4c254b5fdaa30000000e6"),"customer_num":116,"c
+              all_dtime":ISODate("2007-12-21T11:24:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Second complaint from this custome
+              r! Received two cases right-handed outfielder gloves (1 HRO) inst
+              ead of one case lefties.","res_dtime":ISODate("2007-12-27T08:19:0
+              0.000Z"),"res_descr":"Memo to shipping (Ava Brown) to send case o
+              f left-handed gloves, pick up wrong case; memo to billing request
+              ing 5% discount to placate customer due to second offense and lat
+              eness of resolution because of holiday"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000103"),"customer_num":106,"c
+              all_dtime":ISODate("2008-06-12T08:20:00.000Z"),"user_id":"maryj",
+              "call_code":"D","call_descr":"Order was received, but two of the 
+              cans of ANZ tennis balls within the case were empty","res_dtime":
+              ISODate("2008-06-12T08:25:00.000Z"),"res_descr":"Authorized credi
+              t for two cans to customer, issued apology. Called ANZ buyer to r
+              eport the QA problem."} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000104"),"customer_num":110,"c
+              all_dtime":ISODate("2008-07-07T10:24:00.000Z"),"user_id":"richc",
+              "call_code":"L","call_descr":"Order placed one month ago (6/7) no
+              t received.","res_dtime":ISODate("2008-07-07T10:30:00.000Z"),"res
+              _descr":"Checked with shipping (Ed Smith). Order sent yesterday- 
+              we were waiting for goods from ANZ. Next time will call with dela
+              y if necessary."} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000105"),"customer_num":119,"c
+              all_dtime":ISODate("2008-07-01T15:00:00.000Z"),"user_id":"richc",
+              "call_code":"B","call_descr":"Bill does not reflect credit from p
+              revious order","res_dtime":ISODate("2008-07-02T08:21:00.000Z"),"r
+              es_descr":"Spoke with Jane Akant in Finance. She found the error 
+              and is sending new bill to customer"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000106"),"customer_num":121,"c
+              all_dtime":ISODate("2008-07-10T14:05:00.000Z"),"user_id":"maryj",
+              "call_code":"O","call_descr":"Customer likes our merchandise. Req
+              uests that we stock more types of infant joggers. Will call back 
+              to place order.","res_dtime":ISODate("2008-07-10T14:06:00.000Z"),
+              "res_descr":"Sent note to marketing group of interest in infant j
+              oggers"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000107"),"customer_num":127,"c
+              all_dtime":ISODate("2008-07-31T14:30:00.000Z"),"user_id":"maryj",
+              "call_code":"I","call_descr":"Received Hero watches (item # 304) 
+              instead of ANZ watches","res_descr":"Sent memo to shipping to sen
+              d ANZ item 304 to customer and pickup HRO watches. Should be done
+               tomorrow, 8/1"} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000108"),"customer_num":116,"c
+              all_dtime":ISODate("2007-11-28T13:34:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Received plain white swim caps (31
+              3 ANZ) instead of navy with team logo (313 SHM)","res_dtime":ISOD
+              ate("2007-11-28T16:47:00.000Z"),"res_descr":"Shipping found corre
+              ct case in warehouse and express mailed it in time for swim meet.
+              "} 
+
+(expression)  {"_id":ObjectId("5ad4c33cb5fdaa3000000109"),"customer_num":116,"c
+              all_dtime":ISODate("2007-12-21T11:24:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Second complaint from this custome
+              r! Received two cases right-handed outfielder gloves (1 HRO) inst
+              ead of one case lefties.","res_dtime":ISODate("2007-12-27T08:19:0
+              0.000Z"),"res_descr":"Memo to shipping (Ava Brown) to send case o
+              f left-handed gloves, pick up wrong case; memo to billing request
+              ing 5% discount to placate customer due to second offense and lat
+              eness of resolution because of holiday"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000126"),"customer_num":106,"c
+              all_dtime":ISODate("2008-06-12T08:20:00.000Z"),"user_id":"maryj",
+              "call_code":"D","call_descr":"Order was received, but two of the 
+              cans of ANZ tennis balls within the case were empty","res_dtime":
+              ISODate("2008-06-12T08:25:00.000Z"),"res_descr":"Authorized credi
+              t for two cans to customer, issued apology. Called ANZ buyer to r
+              eport the QA problem."} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000127"),"customer_num":110,"c
+              all_dtime":ISODate("2008-07-07T10:24:00.000Z"),"user_id":"richc",
+              "call_code":"L","call_descr":"Order placed one month ago (6/7) no
+              t received.","res_dtime":ISODate("2008-07-07T10:30:00.000Z"),"res
+              _descr":"Checked with shipping (Ed Smith). Order sent yesterday- 
+              we were waiting for goods from ANZ. Next time will call with dela
+              y if necessary."} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000128"),"customer_num":119,"c
+              all_dtime":ISODate("2008-07-01T15:00:00.000Z"),"user_id":"richc",
+              "call_code":"B","call_descr":"Bill does not reflect credit from p
+              revious order","res_dtime":ISODate("2008-07-02T08:21:00.000Z"),"r
+              es_descr":"Spoke with Jane Akant in Finance. She found the error 
+              and is sending new bill to customer"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa3000000129"),"customer_num":121,"c
+              all_dtime":ISODate("2008-07-10T14:05:00.000Z"),"user_id":"maryj",
+              "call_code":"O","call_descr":"Customer likes our merchandise. Req
+              uests that we stock more types of infant joggers. Will call back 
+              to place order.","res_dtime":ISODate("2008-07-10T14:06:00.000Z"),
+              "res_descr":"Sent note to marketing group of interest in infant j
+              oggers"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000012a"),"customer_num":127,"c
+              all_dtime":ISODate("2008-07-31T14:30:00.000Z"),"user_id":"maryj",
+              "call_code":"I","call_descr":"Received Hero watches (item # 304) 
+              instead of ANZ watches","res_descr":"Sent memo to shipping to sen
+              d ANZ item 304 to customer and pickup HRO watches. Should be done
+               tomorrow, 8/1"} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000012b"),"customer_num":116,"c
+              all_dtime":ISODate("2007-11-28T13:34:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Received plain white swim caps (31
+              3 ANZ) instead of navy with team logo (313 SHM)","res_dtime":ISOD
+              ate("2007-11-28T16:47:00.000Z"),"res_descr":"Shipping found corre
+              ct case in warehouse and express mailed it in time for swim meet.
+              "} 
+
+(expression)  {"_id":ObjectId("5ad4c509b5fdaa300000012c"),"customer_num":116,"c
+              all_dtime":ISODate("2007-12-21T11:24:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Second complaint from this custome
+              r! Received two cases right-handed outfielder gloves (1 HRO) inst
+              ead of one case lefties.","res_dtime":ISODate("2007-12-27T08:19:0
+              0.000Z"),"res_descr":"Memo to shipping (Ava Brown) to send case o
+              f left-handed gloves, pick up wrong case; memo to billing request
+              ing 5% discount to placate customer due to second offense and lat
+              eness of resolution because of holiday"} 
+
+
+
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa3000000149"),"customer_num":106,"c
+              all_dtime":ISODate("2008-06-12T08:20:00.000Z"),"user_id":"maryj",
+              "call_code":"D","call_descr":"Order was received, but two of the 
+              cans of ANZ tennis balls within the case were empty","res_dtime":
+              ISODate("2008-06-12T08:25:00.000Z"),"res_descr":"Authorized credi
+              t for two cans to customer, issued apology. Called ANZ buyer to r
+              eport the QA problem."} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000014a"),"customer_num":110,"c
+              all_dtime":ISODate("2008-07-07T10:24:00.000Z"),"user_id":"richc",
+              "call_code":"L","call_descr":"Order placed one month ago (6/7) no
+              t received.","res_dtime":ISODate("2008-07-07T10:30:00.000Z"),"res
+              _descr":"Checked with shipping (Ed Smith). Order sent yesterday- 
+              we were waiting for goods from ANZ. Next time will call with dela
+              y if necessary."} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000014b"),"customer_num":119,"c
+              all_dtime":ISODate("2008-07-01T15:00:00.000Z"),"user_id":"richc",
+              "call_code":"B","call_descr":"Bill does not reflect credit from p
+              revious order","res_dtime":ISODate("2008-07-02T08:21:00.000Z"),"r
+              es_descr":"Spoke with Jane Akant in Finance. She found the error 
+              and is sending new bill to customer"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000014c"),"customer_num":121,"c
+              all_dtime":ISODate("2008-07-10T14:05:00.000Z"),"user_id":"maryj",
+              "call_code":"O","call_descr":"Customer likes our merchandise. Req
+              uests that we stock more types of infant joggers. Will call back 
+              to place order.","res_dtime":ISODate("2008-07-10T14:06:00.000Z"),
+              "res_descr":"Sent note to marketing group of interest in infant j
+              oggers"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000014d"),"customer_num":127,"c
+              all_dtime":ISODate("2008-07-31T14:30:00.000Z"),"user_id":"maryj",
+              "call_code":"I","call_descr":"Received Hero watches (item # 304) 
+              instead of ANZ watches","res_descr":"Sent memo to shipping to sen
+              d ANZ item 304 to customer and pickup HRO watches. Should be done
+               tomorrow, 8/1"} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000014e"),"customer_num":116,"c
+              all_dtime":ISODate("2007-11-28T13:34:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Received plain white swim caps (31
+              3 ANZ) instead of navy with team logo (313 SHM)","res_dtime":ISOD
+              ate("2007-11-28T16:47:00.000Z"),"res_descr":"Shipping found corre
+              ct case in warehouse and express mailed it in time for swim meet.
+              "} 
+
+(expression)  {"_id":ObjectId("5ad4c556b5fdaa300000014f"),"customer_num":116,"c
+              all_dtime":ISODate("2007-12-21T11:24:00.000Z"),"user_id":"mannyn"
+              ,"call_code":"I","call_descr":"Second complaint from this custome
+              r! Received two cases right-handed outfielder gloves (1 HRO) inst
+              ead of one case lefties.","res_dtime":ISODate("2007-12-27T08:19:0
+              0.000Z"),"res_descr":"Memo to shipping (Ava Brown) to send case o
+              f left-handed gloves, pick up wrong case; memo to billing request
+              ing 5% discount to placate customer due to second offense and lat
+              eness of resolution because of holiday"} 
+
